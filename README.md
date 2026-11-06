@@ -31,12 +31,12 @@ Month-by-month crew plan for four Boston 311 departments in 2025, with a GenAI i
 - Developed and executed a Jupyter Notebook containing the data preparation, forecasting, sensitivity analysis, and visualizations.
 
 **Heewon – Intake Assistant**
-- Built the request type catalog (top 40 of 158 types, about 95% of requests) with plain-language descriptions
-- Built the Intake Assistant: embedding retrieval (RAG) + Gemini structured output, with “Other” and “Unknown” handling and follow-up questions
-- Created and reviewed two test sets (49 and 38 messages) and evaluated accuracy (type 94.7%, department 100% on new messages)
+- Built the request type catalog(top 40 of 158 types, about 95% of requests) with plain-language descriptions
+- Built the Intake Assistant with RAG(embedding retrieval), structured output (Gemini JSON schema), and prompt engineering (department descriptions and classification rules), including "Other" and "Unknown" handling and follow-up questions
+- Created and reviewed two test sets 49 and 38 messages) and evaluated accuracy(type 94.7%, department 100% on new messages)
 - Generated synthetic August message streams (normal and parking surge) and handed off extra requests per department to the pipeline
-- Analyzed employee vs. resident requests (Other considerations) and built the demo UI (Gradio)
-Produced the demo video
+- Analyzed employee vs. resident requests (Other considerations) and built the demo UI(Gradio)
+- Set up the GitHub repository and produced the demo video
 
 **Jongmin – Staffing Model & Pipeline**
 - (to be added)
