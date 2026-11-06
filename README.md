@@ -3,7 +3,7 @@
 Month-by-month crew plan for four Boston 311 departments in 2025, with a GenAI intake assistant that classifies resident messages and warns when crews are short.
 
 ## Architecture
-(team architecture diagram here)
+[Architecture diagram](architecture.png)
 
 ## Repository structure
 - `data_forecast/`: data preparation, 2025 demand forecast, sensitivity analysis (Tatenda Mwashaireni)
