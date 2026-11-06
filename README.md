@@ -6,7 +6,7 @@ Month-by-month crew plan for four Boston 311 departments in 2025, with a GenAI i
 (team architecture diagram here)
 
 ## Repository structure
-- `data_forecast/`: data preparation, 2025 demand forecast, sensitivity analysis (Tez)
+- `data_forecast/`: data preparation, 2025 demand forecast, sensitivity analysis (Tatenda Mwashaireni)
 - `intake/`: Intake Assistant (RAG + structured output), test sets, synthetic messages (Heewon)
 - `staffing/`: staffing model and shortage check pipeline (Jongmin)
 
@@ -20,8 +20,15 @@ Month-by-month crew plan for four Boston 311 departments in 2025, with a GenAI i
 (link here)
 
 ## Team contributions
-**Tez – Data & Forecast**
-- (to be added)
+**Tatenda Mwashaireni – Data Preparation, Demand Forecasting & Sensitivity Analysis**
+- Cleaned and processed the Boston 311 service request datasets for 2023 and 2024 using Python and Pandas.
+- Filtered and aggregated monthly service requests for four departments: Public Works (PWDx), Transportation (BTDT), Parks & Recreation (PARK), and Inspectional Services (ISD).
+- Developed a monthly demand forecasting model for January–December 2025 using historical trends and seasonal patterns.
+- Generated 48 monthly forecasts across the four departments, with a total estimated demand of **274,137 requests for 2025**.
+- Performed sensitivity analysis using three scenarios: baseline demand, a 20% increase, and a 20% decrease.
+- Created visualizations showing monthly demand forecasts by department and citywide sensitivity scenarios.
+- Prepared department demand shares, request-type data, and CSV outputs for integration with the Intake Assistant and staffing model.
+- Developed and executed a Jupyter Notebook containing the data preparation, forecasting, sensitivity analysis, and visualizations.
 
 **Heewon – Intake Assistant**
 - Built the request type catalog (top 40 of 158 types, about 95% of requests) with plain-language descriptions
