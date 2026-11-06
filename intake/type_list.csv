@@ -1,0 +1,159 @@
+type,department,count,dept_share,main_queue,cum_share
+Parking Enforcement,BTDT,63064,0.9985570214385386,BTDT_Parking Enforcement,0.22814805167554816
+Requests for Street Cleaning,PWDx,20564,0.9787978992413927,PWDx_District 1C: Downtown,0.30254289714453164
+Improper Storage of Trash (Barrels),PWDx,20340,0.9967059980334316,PWDx_Code Enforcement,0.37612737277374403
+CE Collection,PWDx,18011,0.9981122647271112,PWDx_District 1C: Downtown,0.44128617270283665
+Schedule a Bulk Item Pickup,PWDx,11828,1.0,PWDx_Schedule a Bulk Item Pickup,0.48407659442074835
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,10588,0.9996222138269739,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,0.5223810402399274
+Poor Conditions of Property,PWDx,8706,0.99276361130255,PWDx_Code Enforcement,0.5538769323160297
+Mattress_Pickup,PWDx,8533,1.0,PWDx_WM_Mattress_Pickup,0.584746958399809
+Tree Maintenance Requests,PARK,8355,0.965050867743866,PARK_Tree Maintenance Request,0.6149730298787701
+Request for Pothole Repair,PWDx,8029,0.9931498318595092,PWDx_Roadway Repair_ARP_Resurfacing,0.6440197238230644
+Pick up Dead Animal,PWDx,7527,0.9558921216952305,PWDx_District 04: Allston/Brighton,0.6712503210728717
+Schedule a Bulk Item Pickup SS,PWDx,7409,1.0,PWDx_Schedule a Bulk Item Pickup,0.6980540270677997
+Sidewalk Repair (Make Safe),PWDx,5066,0.9419660481642321,PWDx_Sidewalk Repair,0.7163814092476223
+Rodent Activity,ISD,4936,0.9467179902755267,ISD_Environmental Services (INTERNAL),0.7342384875025776
+Sign Repair,BTDT,4876,0.9782608695652174,BTDT_Sign Shop_Sign Installation,0.7518785024075944
+Abandoned Vehicles,BTDT,4759,0.99516705190166,BTDT_AVRS Interface Queue,0.7690952437802306
+Recycling Cart Return,PWDx,4140,1.0,PWDx_Recycling Sent to Contractor,0.7840726149259994
+Request for Recycling Cart,PWDx,4079,1.0,PWDx_Recycling Sent to Contractor,0.7988293049993307
+Street Light Outages,PWDx,3900,0.9797435897435898,PWDx_Street Light Outages,0.8129384227453449
+Unshoveled Sidewalk,PWDx,3774,0.9819819819819819,PWDx_Code Enforcement,0.8265917074564878
+Traffic Signal Inspection,BTDT,3773,0.9923138086403392,BTDT_Traffic Signal_Repair,0.8402413744451318
+Ground Maintenance,PARK,3183,0.9644989004084197,PARK_Maintenance_Region 1,0.8517565851593788
+Illegal Dumping,PWDx,2988,0.9966532797858099,PWDx_Code Enforcement,0.862566339986325
+New Tree Requests,PARK,2577,0.9945673263484672,PARK_New Tree Requests,0.8718892108661913
+Equipment Repair,PARK,2441,0.9680458828349038,PARK_Maintenance_Trades,0.8807200714861966
+Sticker Request,PWDx,2434,1.0,PWDx_Sticker Request,0.8895256080487091
+Empty Litter Basket,PWDx,2409,0.9020340390203404,PWDx_District 1C: Downtown,0.898240701548747
+Unsatisfactory Living Conditions,ISD,2383,0.9937054133445237,ISD_Housing (INTERNAL),0.9068617342638116
+Pest Infestation - Residential,ISD,1952,0.9344262295081968,ISD_Environmental Services (INTERNAL),0.9139235285818166
+Contractor Complaints,PWDx,1236,0.8859223300970874,PWDx_Contractor Complaints,0.9183950335905534
+PWD Graffiti,PWDx,1036,0.8272200772200772,PWDx_Graffiti,0.9221429940994946
+New Sign  Crosswalk or Pavement Marking,BTDT,945,0.9883597883597883,BTDT_Engineering_New Sign and Pavement Marking Requests,0.9255617418610288
+Contractors Complaint,ISD,923,0.9382448537378115,ISD_Building (INTERNAL),0.9289008997275855
+Abandoned Bicycle,BTDT,913,0.9868565169769989,BTDT_Abandoned Bicycle,0.9322038803691524
+Work w/out Permit,ISD,896,0.9966517857142857,ISD_Building (INTERNAL),0.9354453597282367
+General Comments For a Program or Policy,BTDT,850,0.4976470588235294,BTDT_General Comments,0.938520423852368
+Request for Snow Plowing,PWDx,838,0.9916467780429594,PWDx_District 07: South Dorchester,0.9415520753065115
+General Lighting Request,PWDx,791,0.9898862199747156,PWDx_Street Light_General Lighting Request,0.9444136938032032
+Heat - Excessive  Insufficient,ISD,749,1.0,ISD_Housing (INTERNAL),0.9471233679549377
+Tree Emergencies,PARK,727,1.0,PARK_Tree Emergencies,0.9497534522116946
+Requests for Traffic Signal Studies or Reviews,BTDT,675,0.997037037037037,BTDT_Engineering_Request for Traffic Signal Study or Review,0.9521954148985048
+Maintenance Complaint - Residential,ISD,645,0.9875968992248062,ISD_Housing (INTERNAL),0.9545288459103456
+Transportation General Request,BTDT,626,0.9600638977635783,BTDT_Administration,0.9567935401947059
+Public Works General Request,PWDx,617,0.93354943273906,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,0.9590256749765752
+Working Beyond Hours,ISD,581,0.9965576592082617,ISD_Building (INTERNAL),0.9611275717484815
+Unsanitary Conditions - Establishment,ISD,568,0.9929577464788732,ISD_Health (INTERNAL),0.9631824381279009
+Building Inspection Request,ISD,560,0.9928571428571429,ISD_Building (INTERNAL),0.9652083627273287
+Electrical,ISD,480,1.0,ISD_Electrical,0.9669448695268381
+Unsafe Dangerous Conditions,ISD,468,0.967948717948718,ISD_Building (INTERNAL),0.9686379636563598
+Roadway Repair,PWDx,435,0.9885057471264368,PWDx_Roadway Repair,0.9702116729434151
+Parks Lighting/Electrical Issues,PWDx,415,0.5012048192771085,PWDx_Street Light Outages,0.9717130277804911
+Street Light Knock Downs,PWDx,403,0.9578163771712159,PWDx_Street Light Knock Downs,0.9731709699475792
+Mice Infestation - Residential,ISD,345,1.0,ISD_Housing (INTERNAL),0.9744190842097266
+Chronic Dampness/Mold,ISD,290,1.0,ISD_Housing (INTERNAL),0.9754682237344302
+Missing Sign,BTDT,283,0.9858657243816255,BTDT_Sign Shop_Sign Installation,0.976492039201641
+Short Term Rental,ISD,279,0.996415770609319,ISD_Housing_ShortTermRental,0.9775013837788559
+Major System Failure,PWDx,265,1.0,PWDx_Major System Failure,0.978460080241085
+Protection of Adjoining Property,ISD,253,0.9762845849802372,ISD_Building (INTERNAL),0.9793753640333265
+General Comments For An Employee,PWDx,244,0.6762295081967213,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,0.980258088323077
+Park Improvement Requests,PARK,237,0.9957805907172996,PARK_Park Improvement Requests,0.9811154885553349
+Food Alert - Confirmed,ISD,236,1.0,ISD_Health (INTERNAL),0.9819692710650937
+Unsanitary Conditions - Food,ISD,221,0.995475113122172,ISD_Health (INTERNAL),0.9827687877373679
+Illegal Vending,PWDx,216,0.9675925925925926,PWDx_Code Enforcement,0.9835502157971471
+Traffic Signal Repair,BTDT,206,0.8009708737864077,BTDT_Traffic Signal_Graffiti,0.9842954666319366
+Parking on Front/Back Yards (Illegal Parking),PWDx,202,0.7425742574257426,PWDx_Code Enforcement,0.9850262465767301
+Unsatisfactory Utilities - Electrical  Plumbing,ISD,198,1.0,ISD_Housing (INTERNAL),0.9857425556315277
+Construction Debris,PWDx,189,0.9629629629629629,PWDx_Code Enforcement,0.9864263051838346
+Illegal Auto Body Shop,PWDx,176,0.5511363636363636,PWDx_Code Enforcement,0.9870630243436547
+Maintenance - Homeowner,ISD,167,0.9820359281437125,ISD_Building (INTERNAL),0.987667184000984
+General Traffic Engineering Request,BTDT,159,0.9811320754716981,BTDT_Engineering_New Sign and Pavement Marking Requests,0.9882424018783216
+Work Hours-Loud Noise Complaints,PWDx,158,0.8670886075949367,PWDx_Work Hours-Loud Noise Complaints,0.98881400203316
+Space Savers,PWDx,157,0.9745222929936306,PWDx_District 03: North Dorchester,0.9893819844654996
+Parks General Request,PARK,148,0.8716216216216216,PARK_Maintenance_Region 2,0.9899174073953483
+Food Alert - Unconfirmed,ISD,136,1.0,ISD_Health (INTERNAL),0.9904094176552093
+Pavement Marking Inspection,BTDT,134,0.9701492537313433,BTDT_Sign Shop_Sign Installation,0.9908941924700724
+Illegal Posting of Signs,PWDx,121,0.8677685950413223,PWDx_Code Enforcement,0.9913319368924487
+Illegal Occupancy,ISD,116,1.0,ISD_Building (INTERNAL),0.9917515927023302
+Exceeding Terms of Permit,ISD,113,0.9557522123893806,ISD_Building (INTERNAL),0.9921603953447147
+Request for Litter Basket Installation,PWDx,104,0.9230769230769231,PWDx_Request for Litter Basket Installation,0.9925366384846084
+Illegal Rooming House,ISD,102,1.0,ISD_Building (INTERNAL),0.9929056461795042
+Knockdown Replacement,PWDx,97,0.9175257731958762,PWDx_Street Light Knockdown Replacement,0.993256565261905
+Cross Metering - Sub-Metering,ISD,97,1.0,ISD_Housing (INTERNAL),0.9936074843443059
+Overflowing or Un-kept Dumpster,PWDx,95,0.7473684210526316,PWDx_Code Enforcement,0.9939511679817088
+Student Move-in Issues,PWDx,95,0.8947368421052632,PWDx_Code Enforcement,0.9942948516191117
+Egress,ISD,80,0.9625,ISD_Building (INTERNAL),0.99458426941903
+Abandoned Building,ISD,79,0.8987341772151899,ISD_Building (INTERNAL),0.9948700694964492
+Bed Bugs,ISD,78,1.0,ISD_Housing (INTERNAL),0.9951522518513695
+Squalid Living Conditions,ISD,75,0.9733333333333334,ISD_Housing (INTERNAL),0.9954235810387928
+Litter Basket Maintenance,PWDx,75,0.9866666666666667,PWDx_Litter Basket Maintenance,0.9956949102262161
+No Utilities Residential - Water,ISD,73,1.0,ISD_Housing (INTERNAL),0.9959590039686416
+No-Tow Complaint Confirmation,PWDx,63,0.6825396825396826,PWDx_District 10B: Roxbury,0.9961869204860772
+Trash on Vacant Lot,PWDx,60,0.8166666666666667,PWDx_Code Enforcement,0.9964039838360159
+Plumbing,ISD,59,1.0,ISD_Plumbing,0.9966174294634556
+Tree in Park,PARK,57,1.0,PARK_Tree in Park,0.9968236396458974
+No Utilities Residential - Electricity,ISD,51,1.0,ISD_Housing (INTERNAL),0.9970081434933452
+Unsanitary Conditions - Employees,ISD,42,1.0,ISD_Health (INTERNAL),0.9971600878383022
+Notification,ISD,41,1.0,ISD_Housing (INTERNAL),0.9973084144607604
+StreetLight Pole WO,PWDx,38,1.0,PWDx_Highway Construction General,0.9974458879157215
+Sewage/Septic Back-Up,ISD,37,1.0,ISD_Housing (INTERNAL),0.9975797436481837
+Bicycle Issues,BTDT,36,1.0,BTDT_BostonBikes,0.997709981658147
+Utility Casting Repair,PWDx,34,0.9705882352941176,PWDx_Utility Casting Repair,0.9978329842231122
+Fire in Food Establishment,ISD,32,1.0,ISD_Health (INTERNAL),0.9979487513430795
+Zoning,ISD,31,0.9354838709677419,ISD_Building (INTERNAL),0.9980609007405478
+Cemetery Maintenance Request,PARK,30,1.0,PARK_Cemetery Maintenance Request,0.9981694324155171
+Request for Snow Plowing (Emergency Responder),PWDx,30,1.0,PWDx_District 03: North Dorchester,0.9982779640904865
+Pole Compliance,PWDx,30,1.0,PWDx_STRL Pole Compliance,0.9983864957654558
+Parking Meter Repairs,BTDT,28,1.0,BTDT_Broken Meter Complaints,0.9984877919954273
+Upgrade Existing Lighting,PWDx,26,1.0,PWDx_Street Light_Upgrade Existing Lighting,0.9985818527804007
+Rat Bite,ISD,23,1.0,ISD_Environmental Services (INTERNAL),0.9986650603978772
+Overcrowding,ISD,23,1.0,ISD_Housing (INTERNAL),0.9987482680153537
+Sidewalk Repair,PWDx,21,1.0,PWDx_Highway Construction,0.9988242401878321
+Poor Ventilation,ISD,20,1.0,ISD_Housing (INTERNAL),0.9988965946378117
+Install New Lighting,PWDx,20,1.0,PWDx_Street Light_Install New Lighting,0.9989689490877913
+Misc. Snow Complaint,PWDx,15,0.9333333333333333,PWDx_Snow Cases,0.9990232149252759
+Municipal Parking Lot Complaints,BTDT,15,0.9333333333333333,BTDT_Parking Lot_Municipal Parking Lot Complaints,0.9990774807627606
+Scanning Overcharge,ISD,15,1.0,ISD_Weights and Measures (INTERNAL),0.9991317466002453
+No Utilities Residential - Gas,ISD,13,1.0,ISD_Housing (INTERNAL),0.9991787769927319
+Rental Unit Delivery Conditions,ISD,12,1.0,ISD_Housing (INTERNAL),0.9992221896627197
+Bridge Maintenance,PWDx,12,1.0,PWDx_Bridge Maintenance,0.9992656023327074
+Graffiti Removal,PARK,12,0.5833333333333334,PARK_Graffiti,0.9993090150026952
+Pigeon Infestation,ISD,10,0.9,ISD_Environmental Services (INTERNAL),0.999345192227685
+Planting,PARK,10,1.0,PARK_Maintenance_Horticulture,0.9993813694526748
+Animal Generic Request,PWDx,10,0.6,PWDx_District 05: South Boston,0.9994175466776646
+Mechanical,ISD,9,1.0,ISD_Building (INTERNAL),0.9994501061801554
+Needle Pickup,PWDx,9,0.5555555555555556,PWDx_Code Enforcement,0.9994826656826461
+Occupying W/Out A Valid CO/CI,ISD,9,1.0,ISD_Building (INTERNAL),0.9995152251851369
+Phone Bank Service Inquiry,BTDT,8,1.0,BTDT_OPC_Phone Bank Service,0.9995441669651288
+Mosquitoes (West Nile),ISD,8,0.875,ISD_Environmental Services (INTERNAL),0.9995731087451206
+Catchbasin,PWDx,8,0.5,PWDx_Roadway Repair_ARP_Resurfacing,0.9996020505251124
+Sidewalk Cover / Manhole,PWDx,8,0.5,PWDx_Street Light_General Lighting Request,0.9996309923051042
+Valet Parking Problems,BTDT,7,1.0,BTDT_Parking Lot_Valet Parking Problems,0.9996563163625971
+Unit Pricing Wrong/Missing,ISD,7,1.0,ISD_Weights and Measures (INTERNAL),0.9996816404200899
+Item Price Missing,ISD,7,1.0,ISD_Weights and Measures (INTERNAL),0.9997069644775828
+No Utilities - Food Establishment - Water,ISD,7,1.0,ISD_Health (INTERNAL),0.9997322885350757
+BWSC General Request,PWDx,6,0.6666666666666666,PWDx_Sidewalk Repair,0.9997539948700696
+Carbon Monoxide,ISD,6,1.0,ISD_Housing (INTERNAL),0.9997757012050633
+No Price on Gas/Wrong Price,ISD,6,1.0,ISD_Weights and Measures (INTERNAL),0.9997974075400572
+Pickup/Clear Conduit,PWDx,6,1.0,PWDx_Street Light_Pickup_Clear Conduit,0.9998191138750511
+No Utilities - Food Establishment - Sewer,ISD,5,1.0,ISD_Health (INTERNAL),0.999837202487546
+Lead,ISD,5,1.0,ISD_Housing (INTERNAL),0.9998552911000409
+Requests for Directional or Roadway Changes,BTDT,5,1.0,BTDT_Engineering_Request for Traffic Signal Study or Review,0.9998733797125358
+Private Parking Lot Complaints,BTDT,5,1.0,BTDT_Parking Lot_PrivateParkingLotComplaints,0.9998914683250306
+No Utilities - Food Establishment - Flood,ISD,4,1.0,ISD_Health (INTERNAL),0.9999059392150266
+Student Overcrowding,ISD,3,1.0,ISD_Housing (INTERNAL),0.9999167923825235
+Big Buildings Recycling (INTERNAL),PWDx,3,1.0,PWDx_WM_Mattress_Pickup,0.9999276455500204
+Capital Improvement Long Term,PARK,2,1.0,PARK_Park Improvement Requests,0.9999348809950184
+Walk-In Service Inquiry,BTDT,2,1.0,BTDT_OPC_Walk-In Service,0.9999421164400164
+Short Measure - Gas,ISD,2,1.0,ISD_Weights and Measures (INTERNAL),0.9999493518850143
+News Boxes,PWDx,2,1.0,PWDx_News Boxes,0.9999565873300122
+No Utilities - Food Establishment - Electricity,ISD,2,1.0,ISD_Health (INTERNAL),0.9999638227750102
+Scale Not Visible,ISD,2,1.0,ISD_Weights and Measures (INTERNAL),0.9999710582200082
+Product Short Measure,ISD,2,1.0,ISD_Weights and Measures (INTERNAL),0.9999782936650061
+Follow-Up,ISD,1,1.0,ISD_Administrative,0.9999819113875051
+City/State Snow Issues,PWDx,1,1.0,PWDx_District 06: West Roxbury and Roslindale,0.999985529110004
+Pavement Marking Maintenance,BTDT,1,1.0,BTDT_Sign Shop_Sign Installation,0.9999891468325031
+Snow/Ice Control,PWDx,1,1.0,PWDx_District 03: North Dorchester,0.9999927645550021
+Utility Call-In,PWDx,1,1.0,PWDx_Utility Call-In,0.999996382277501
+Water in Gas - High Priority,ISD,1,1.0,ISD_Weights and Measures (INTERNAL),1.0

@@ -1,0 +1,39 @@
+id,message,correct_types,correct_department,category,note
+1,A car has been double parked on Tremont St blocking traffic for an hour,Parking Enforcement,BTDT,clear,
+2,Someone is parked in the handicap spot without a placard again,Parking Enforcement,BTDT,clear,
+3,The one-way sign at the end of my street is missing,Sign Repair,BTDT,clear,
+4,The walk signal at the intersection by the library never comes on,Traffic Signal Inspection,BTDT,clear,
+5,The lane lines on Columbia Rd are completely faded,New Sign  Crosswalk or Pavement Marking,BTDT,clear,
+6,Trash day was yesterday and our barrels are still full,Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,clear,
+7,There's a sinkhole forming in the road on Hyde Park Ave,Request for Pothole Repair,PWDx,clear,
+8,The bricks on the sidewalk outside the library are loose and sticking up,Sidewalk Repair (Make Safe),PWDx,clear,
+9,The light pole on our corner is leaning and wires are hanging out,General Lighting Request;Street Light Outages,PWDx,same-dept group,Lighting group
+10,"The sidewalk on Centre St is a sheet of ice, nobody shoveled it",Unshoveled Sidewalk,PWDx,clear,
+11,There's a dead cat on the sidewalk near the school,Pick up Dead Animal,PWDx,clear,
+12,Someone tagged the bus shelter with spray paint,PWD Graffiti,PWDx,clear,
+13,"Our blue recycling bin cracked, we need a new one",Request for Recycling Cart,PWDx,clear,
+14,The trash can on the corner hasn't been emptied in days,Empty Litter Basket,PWDx,clear,
+15,My neighbor leaves trash bags by the curb all week and animals keep ripping them open,Improper Storage of Trash (Barrels),PWDx,clear,
+16,Can someone come take away our old desk and a bookshelf?,Schedule a Bulk Item Pickup;Schedule a Bulk Item Pickup SS,PWDx,same-dept group,Bulk pickup group (fix check: not CE Collection)
+17,We're moving next week and need to schedule a pickup for a mattress and a sofa,Mattress_Pickup;Schedule a Bulk Item Pickup;Schedule a Bulk Item Pickup SS,PWDx,same-dept group,Scheduled pickup from home (fix check: not CE Collection)
+18,Furniture has been dumped on the sidewalk in front of the building since Sunday,CE Collection;Illegal Dumping,PWDx,same-dept group,Items already on the street
+19,Someone dumped paint cans and old tires in the alley overnight,Illegal Dumping,PWDx,clear,
+20,A tree is leaning on the power lines after the wind last night,Tree Emergencies,PARK,clear,
+21,The dead tree in front of my house should be taken down before it falls,Tree Maintenance Requests;Tree Emergencies,PARK,same-dept group,Tree group
+22,The basketball hoop at the park is broken,Equipment Repair,PARK,clear,
+23,There's trash and broken bottles all over the grass at the park,Ground Maintenance,PARK,clear,
+24,The heat in my building has been off for two days,Heat - Excessive  Insufficient;Unsatisfactory Living Conditions,ISD,same-dept group,Heat group
+25,Cockroaches keep coming into my apartment from the unit next door,Pest Infestation - Residential,ISD,clear,
+26,Rats are burrowing in the yard next to my building,Rodent Activity,ISD,clear,
+27,They're tearing down a wall in the house next door and I don't think they have a permit,Work w/out Permit,ISD,clear,
+28,The utility crew dug up our sidewalk and left it torn up for weeks,Contractor Complaints,PWDx,cross-dept pair,Street contractor (PWDx)
+29,The contractor working on the house next door keeps throwing debris into my yard,Contractors Complaint,ISD,cross-dept pair,Building contractor (ISD)
+30,The empty house on my block has trash and overgrown bushes all over the front yard,Poor Conditions of Property,PWDx,cross-dept pair,Outside property (PWDx)
+31,My landlord won't fix the broken front door lock or the hallway lights,Unsatisfactory Living Conditions,ISD,cross-dept pair,Inside living conditions (ISD)
+32,My neighbor parks his truck on the grass in his backyard every night,Other,PWDx,other,"Parking on Front/Back Yards, main dept PWDx"
+33,There's a hypodermic needle in the grass by the bus stop,Other,PWDx,other,"Needle Pickup, main dept PWDx"
+34,The restaurant's dumpster lid is broken and garbage is spilling out,Other;Improper Storage of Trash (Barrels),PWDx,other,"Overflowing or Un-kept Dumpster, main dept PWDx"
+35,"I want to file a complaint about the city's street parking rules, they are too strict",General Comments For a Program or Policy,BTDT,feedback,Policy feedback
+36,I just want to thank the crew that came out to pick up our bulk items so quickly,Other,PWDx,feedback,"General Comments For An Employee, main dept PWDx"
+37,"Please help, this has been going on forever",Unknown,Unknown,unknown,
+38,I want to report something,Unknown,Unknown,unknown,

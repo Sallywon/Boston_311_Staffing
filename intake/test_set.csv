@@ -1,0 +1,50 @@
+id,message,correct_types,correct_department,category,note
+1,There's a car parked in front of my driveway and I can't get out,Parking Enforcement,BTDT,clear,
+2,Someone parks in the bike lane on Mass Ave every single morning,Parking Enforcement,BTDT,clear,
+3,A car has been sitting on our street for 3 weeks with flat tires and no plates,Abandoned Vehicles,BTDT,clear,
+4,The stop sign at the corner of Elm and Pine got knocked over,Sign Repair,BTDT,clear,
+5,The traffic light on Washington St is stuck on red,Traffic Signal Inspection,BTDT,clear,
+6,Can we get a crosswalk painted near the elementary school?,New Sign  Crosswalk or Pavement Marking,BTDT,clear,
+7,My recycling wasn't picked up today but everyone else's was,Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,clear,
+8,I need to get rid of an old couch and a dresser,Schedule a Bulk Item Pickup;Schedule a Bulk Item Pickup SS,PWDx,same-dept group,Bulk pickup and SS version are equivalent
+9,How do I get my old mattress picked up?,Mattress_Pickup;CE Collection,PWDx,same-dept group,Mattress group
+10,My neighbors leave trash bags on the sidewalk all week without barrels,Improper Storage of Trash (Barrels),PWDx,clear,
+11,"Our recycling cart was stolen, can we get a new one?",Request for Recycling Cart,PWDx,clear,
+12,We're moving out and want to give back our recycling bin,Recycling Cart Return,PWDx,clear,
+13,The public trash can at the bus stop on Blue Hill Ave is overflowing,Empty Litter Basket,PWDx,clear,
+14,Someone dumped a pile of tires and construction debris in the empty lot on my street,Illegal Dumping,PWDx,clear,
+15,There's a huge pothole on Dorchester Ave that almost broke my tire,Request for Pothole Repair,PWDx,clear,
+16,"The sidewalk in front of 25 Beacon St is cracked and lifted, my mom tripped on it",Sidewalk Repair (Make Safe),PWDx,clear,
+17,The street light outside my house has been out for a week,Street Light Outages;General Lighting Request,PWDx,same-dept group,Lighting group
+18,Our street still hasn't been plowed since the storm and we can't drive out,Request for Snow Plowing,PWDx,clear,
+19,The house on the corner never shovels their sidewalk,Unshoveled Sidewalk,PWDx,clear,
+20,There's a dead raccoon in the middle of the road,Pick up Dead Animal,PWDx,clear,
+21,Someone spray painted graffiti all over the utility box on my corner,PWD Graffiti,PWDx,clear,
+22,"Broken glass and litter all along the gutter on our street, it really needs sweeping",Requests for Street Cleaning;CE Collection,PWDx,same-dept group,Street Cleaning reason group
+23,Can I get recycling stickers mailed to my house?,Sticker Request,PWDx,clear,
+24,A huge branch fell on a car and is blocking the road after the storm,Tree Emergencies,PARK,clear,
+25,The tree in front of my house has branches covering the street sign,Tree Maintenance Requests,PARK,clear,
+26,We'd love for the city to plant a tree in front of our building,New Tree Requests,PARK,clear,
+27,The swings at the neighborhood playground are broken,Equipment Repair,PARK,clear,
+28,The grass at the park is overgrown and there's litter everywhere,Ground Maintenance,PARK,clear,
+29,My landlord hasn't fixed the leak in my ceiling and now there's mold,Unsatisfactory Living Conditions,ISD,clear,
+30,No heat in my apartment since Monday and it's freezing,Heat - Excessive  Insufficient;Unsatisfactory Living Conditions,ISD,same-dept group,Heat is also a living condition
+31,We have bedbugs and cockroaches in our apartment,Pest Infestation - Residential,ISD,clear,
+32,Rats are running all over the alley behind the restaurant,Rodent Activity,ISD,clear,
+33,My neighbor is building an addition and there's no permit posted anywhere,Work w/out Permit,ISD,clear,
+34,There are mice in my kitchen,Pest Infestation - Residential;Rodent Activity,ISD,same-dept group,Pest/rodent group
+35,A moped has been chained to the pole outside my building for months,Abandoned Vehicles;Abandoned Bicycle,BTDT,same-dept group,Abandoned vehicle/bike group
+36,After move-out day there are mattresses and furniture piled on the sidewalk,CE Collection;Illegal Dumping;Mattress_Pickup,PWDx,same-dept group,Mattress group
+37,The construction crew working on our street left a huge mess and damaged the pavement,Contractor Complaints,PWDx,cross-dept pair,Street contractor (PWDx) vs building contractor (ISD)
+38,The contractor renovating the building next door works unsafely and starts at 5am,Contractors Complaint,ISD,cross-dept pair,Building contractor (ISD) vs street contractor (PWDx)
+39,The vacant lot next door is full of weeds and junk,Poor Conditions of Property,PWDx,cross-dept pair,Outside property (PWDx) vs inside living conditions (ISD)
+40,The apartment I rent has broken windows and the stairs are falling apart,Unsatisfactory Living Conditions,ISD,cross-dept pair,Inside living conditions (ISD) vs outside property (PWDx)
+41,I found a used needle on the sidewalk near the park,Other,PWDx,other,Needle Pickup is not in the catalog; main dept in data is PWDx
+42,People across the street keep parking on their front lawn,Other,PWDx,other,"Parking on Front/Back Yards is not in the catalog; main dept is PWDx, not BTDT"
+43,The dumpster behind the restaurant is overflowing and smells awful,Other;Improper Storage of Trash (Barrels),PWDx,other,Overflowing Dumpster is not in the catalog; main dept PWDx
+44,Someone is running an auto body shop out of their garage on my street,Other,PWDx,other,Illegal Auto Body Shop is not in the catalog; main dept PWDx
+45,I think the new resident parking permit policy is unfair to renters,General Comments For a Program or Policy,BTDT,feedback,
+46,"The trash collector on my route was really kind, thank you!",Other,PWDx,feedback,General Comments For An Employee is not in the catalog; main dept PWDx
+47,"It's really bad on my street, please do something",Unknown,Unknown,unknown,
+48,Hello? Is anyone there?,Unknown,Unknown,unknown,
+49,There's a problem near my house and it's been like this for weeks,Unknown,Unknown,unknown,

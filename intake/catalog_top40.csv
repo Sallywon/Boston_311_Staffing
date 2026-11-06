@@ -1,0 +1,41 @@
+type,department,count,dept_share,main_queue,cum_share,description
+Parking Enforcement,BTDT,63064,0.9985570214385386,BTDT_Parking Enforcement,0.22814805167554816,"A car is parked illegally, such as blocking a driveway, fire hydrant, crosswalk, or bike lane, parked in a no-parking or resident-only zone, or double-parked."
+Requests for Street Cleaning,PWDx,20564,0.9787978992413927,PWDx_District 1C: Downtown,0.30254289714453164,"The street or gutter is dirty and needs sweeping, for example litter, broken glass, leaves, or debris on the road."
+Improper Storage of Trash (Barrels),PWDx,20340,0.9967059980334316,PWDx_Code Enforcement,0.37612737277374403,"Trash bags or barrels are left out on the sidewalk on the wrong day, without lids, overflowing, or not stored properly by a property."
+CE Collection,PWDx,18011,0.9981122647271112,PWDx_District 1C: Downtown,0.44128617270283665,"Mattresses, furniture, or bags already left out or abandoned on the street or sidewalk, often during move-out season, that the street cleaning crew needs to pick up."
+Schedule a Bulk Item Pickup,PWDx,11828,1.0,PWDx_Schedule a Bulk Item Pickup,0.48407659442074835,I want to schedule a pickup from my home for large household items like furniture or appliances that I am getting rid of.
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,10588,0.9996222138269739,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,0.5223810402399274,"My trash, recycling, yard waste, or bulk item was not picked up on the scheduled collection day."
+Poor Conditions of Property,PWDx,8706,0.99276361130255,PWDx_Code Enforcement,0.5538769323160297,"A private property or lot looks neglected, with overgrown weeds, trash, or debris in the yard."
+Mattress_Pickup,PWDx,8533,1.0,PWDx_WM_Mattress_Pickup,0.584746958399809,I need to get rid of a mattress or box spring and want it picked up.
+Tree Maintenance Requests,PARK,8355,0.965050867743866,PARK_Tree Maintenance Request,0.6149730298787701,"A street tree needs pruning or care, such as low branches blocking signs or lights, or a dead tree that should be removed (not an emergency)."
+Request for Pothole Repair,PWDx,8029,0.9931498318595092,PWDx_Roadway Repair_ARP_Resurfacing,0.6440197238230644,"There is a pothole, hole, crack, or sinkhole in the road surface."
+Pick up Dead Animal,PWDx,7527,0.9558921216952305,PWDx_District 04: Allston/Brighton,0.6712503210728717,"There is a dead animal on the street, sidewalk, or public area that needs to be removed."
+Schedule a Bulk Item Pickup SS,PWDx,7409,1.0,PWDx_Schedule a Bulk Item Pickup,0.6980540270677997,I want to schedule a pickup from my home for large household items like furniture or appliances (self-service request).
+Sidewalk Repair (Make Safe),PWDx,5066,0.9419660481642321,PWDx_Sidewalk Repair,0.7163814092476223,"The sidewalk is broken, cracked, uneven, or has loose bricks, creating a tripping hazard."
+Rodent Activity,ISD,4936,0.9467179902755267,ISD_Environmental Services (INTERNAL),0.7342384875025776,"I see rats or mice, or signs of rodents like burrows or droppings, outdoors on the street, in a yard, or around a building."
+Sign Repair,BTDT,4876,0.9782608695652174,BTDT_Sign Shop_Sign Installation,0.7518785024075944,"An existing street or traffic sign is damaged, knocked down, faded, or missing."
+Abandoned Vehicles,BTDT,4759,0.99516705190166,BTDT_AVRS Interface Queue,0.7690952437802306,"A car, scooter, moped, or motorcycle has been left on the street for a long time and seems abandoned."
+Recycling Cart Return,PWDx,4140,1.0,PWDx_Recycling Sent to Contractor,0.7840726149259994,I want to return my city recycling cart.
+Request for Recycling Cart,PWDx,4079,1.0,PWDx_Recycling Sent to Contractor,0.7988293049993307,I need a new or replacement recycling cart.
+Street Light Outages,PWDx,3900,0.9797435897435898,PWDx_Street Light Outages,0.8129384227453449,"A street light is out, flickering, or not working."
+Unshoveled Sidewalk,PWDx,3774,0.9819819819819819,PWDx_Code Enforcement,0.8265917074564878,The sidewalk in front of a property has not been cleared of snow or ice.
+Traffic Signal Inspection,BTDT,3773,0.9923138086403392,BTDT_Traffic Signal_Repair,0.8402413744451318,"A traffic light is not working, stuck, flashing, damaged, or the timing seems wrong."
+Ground Maintenance,PARK,3183,0.9644989004084197,PARK_Maintenance_Region 1,0.8517565851593788,"A park or playground needs upkeep, such as mowing grass, picking up litter, or cleaning the grounds."
+Illegal Dumping,PWDx,2988,0.9966532797858099,PWDx_Code Enforcement,0.862566339986325,"Someone illegally dumped trash, furniture, tires, or construction debris on a street, lot, or public space."
+New Tree Requests,PARK,2577,0.9945673263484672,PARK_New Tree Requests,0.8718892108661913,I would like the city to plant a new street tree.
+Equipment Repair,PARK,2441,0.9680458828349038,PARK_Maintenance_Trades,0.8807200714861966,"Playground or park equipment, such as swings, benches, fences, or courts, is broken and needs repair."
+Sticker Request,PWDx,2434,1.0,PWDx_Sticker Request,0.8895256080487091,I need recycling stickers or a trash and recycling guide delivered to my home.
+Empty Litter Basket,PWDx,2409,0.9020340390203404,PWDx_District 1C: Downtown,0.898240701548747,A public trash can on the street is full or overflowing and needs to be emptied.
+Unsatisfactory Living Conditions,ISD,2383,0.9937054133445237,ISD_Housing (INTERNAL),0.9068617342638116,"My apartment or rental home has problems like leaks, mold, broken fixtures, or unsafe conditions that the landlord has not fixed."
+Pest Infestation - Residential,ISD,1952,0.9344262295081968,ISD_Environmental Services (INTERNAL),0.9139235285818166,"There are cockroaches, bedbugs, mice, or other pests inside my home or apartment."
+Contractor Complaints,PWDx,1236,0.8859223300970874,PWDx_Contractor Complaints,0.9183950335905534,"A contractor working on the street or sidewalk left a mess, damaged the road, or did poor work."
+PWD Graffiti,PWDx,1036,0.8272200772200772,PWDx_Graffiti,0.9221429940994946,"There is graffiti on public property, such as a wall, sign, or utility box, that needs to be removed."
+New Sign  Crosswalk or Pavement Marking,BTDT,945,0.9883597883597883,BTDT_Engineering_New Sign and Pavement Marking Requests,0.9255617418610288,"I would like a new traffic sign, crosswalk, or road marking, or the painted lines on the road are faded."
+Contractors Complaint,ISD,923,0.9382448537378115,ISD_Building (INTERNAL),0.9289008997275855,"A contractor working on a building is causing problems, such as unsafe work, noise, or work that breaks building rules."
+Abandoned Bicycle,BTDT,913,0.9868565169769989,BTDT_Abandoned Bicycle,0.9322038803691524,"A bicycle has been left locked or abandoned on a rack, pole, or sidewalk for a long time."
+Work w/out Permit,ISD,896,0.9966517857142857,ISD_Building (INTERNAL),0.9354453597282367,Someone is doing construction or renovation work on a building without a permit.
+General Comments For a Program or Policy,BTDT,850,0.4976470588235294,BTDT_General Comments,0.938520423852368,"I want to give feedback, a complaint, or a compliment about a city program, policy, or employee."
+Request for Snow Plowing,PWDx,838,0.9916467780429594,PWDx_District 07: South Dorchester,0.9415520753065115,The street has not been plowed and is still covered in snow.
+General Lighting Request,PWDx,791,0.9898862199747156,PWDx_Street Light_General Lighting Request,0.9444136938032032,"A lighting problem other than a single outage, such as a damaged light pole, exposed wires, or a request for new or brighter lighting."
+Heat - Excessive  Insufficient,ISD,749,1.0,ISD_Housing (INTERNAL),0.9471233679549377,"My apartment has no heat, not enough heat, or is too hot, and the landlord has not fixed it."
+Tree Emergencies,PARK,727,1.0,PARK_Tree Emergencies,0.9497534522116946,"A tree or large branch has fallen or is about to fall, blocking a road or sidewalk, or hitting wires or property."
