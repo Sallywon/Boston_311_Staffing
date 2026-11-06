@@ -39,4 +39,8 @@ Month-by-month crew plan for four Boston 311 departments in 2025, with a GenAI i
 - Set up the GitHub repository and produced the demo video
 
 **Jongmin – Staffing Model & Pipeline**
-- (to be added)
+- Designed the staffing cost structure (crew pay including the paid training month, Parks seasonal crews, release fees, and overdue costs of $20 plus $100 for requests 30+ days late) and the modeling assumptions the brief leaves open (first-in-first-out backlog, one-month targets, hiring and release timing, fixed January crews).
+- Built a month-by-month plan simulator that tracks backlog, overdue requests, utilization and cost for any crew plan, with a validation step that checks each plan against the brief's hiring, release and seasonal-crew rules.
+- Defined the staffing policy: plan for forecast demand plus a 10% buffer and carried-over backlog, keep crews needed again within 4 months (based on the release-vs-keep break-even), and cover the Parks peak with seasonal crews only (based on the seasonal-vs-regular break-even).
+- Produced the 2025 month-by-month crew plan by department, including hiring and release timing ($16.85M total cost, 99.8% on-time rate on the forecast).
+- Ran sensitivity analysis
