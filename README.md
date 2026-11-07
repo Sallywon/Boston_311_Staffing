@@ -17,7 +17,7 @@ Month-by-month crew plan for four Boston 311 departments in 2025, with a GenAI i
 4. Put the CSV files from each folder in a Google Drive folder named `IE5374_311_project`.
 
 ## Demo video
-(link here)
+(https://youtu.be/zO1dara2k44)
 
 ## Team contributions
 **Tatenda Mwashaireni – Data Preparation, Demand Forecasting & Sensitivity Analysis**
@@ -36,7 +36,8 @@ Month-by-month crew plan for four Boston 311 departments in 2025, with a GenAI i
 - Created and reviewed two test sets 49 and 38 messages) and evaluated accuracy(type 94.7%, department 100% on new messages)
 - Generated synthetic August message streams (normal and parking surge) and handed off extra requests per department to the pipeline
 - Analyzed employee vs. resident requests (Other considerations) and built the demo UI(Gradio)
-- Set up the GitHub repository and produced the demo video
+- Set up the GitHub repository
+- produced the demo video
 
 **Jongmin – Staffing Model & Pipeline**
 - Designed the staffing cost structure (crew pay including the paid training month, Parks seasonal crews, release fees, and overdue costs of $20 plus $100 for requests 30+ days late) and the modeling assumptions the brief leaves open (first-in-first-out backlog, one-month targets, hiring and release timing, fixed January crews).
