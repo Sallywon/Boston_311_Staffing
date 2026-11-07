@@ -17,7 +17,7 @@ Month-by-month crew plan for four Boston 311 departments in 2025, with a GenAI i
 4. Put the CSV files from each folder in a Google Drive folder named `IE5374_311_project`.
 
 ## Demo video
-(https://youtu.be/zO1dara2k44)
+- tbu
 
 ## Team contributions
 **Tatenda Mwashaireni – Data Preparation, Demand Forecasting & Sensitivity Analysis**
